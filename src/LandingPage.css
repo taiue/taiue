@@ -1,3 +1,14 @@
-body {
+.box {
     margin: 0;
+    background-image: url("https://i0.wp.com/boingboing.net/wp-content/uploads/2016/10/stars.gif?fit=1&ssl=1&resize=620%2C4000");
+    background-repeat: repeat;
+}
+
+
+.texto {
+    font-size: 64px;
+    color: red;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    margin-left: 8px;
 }

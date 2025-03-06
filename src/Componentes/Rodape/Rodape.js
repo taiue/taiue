@@ -8,7 +8,7 @@ const Rodape = () => {
             <div className='footer'>
                 <section>
                 <p>&copy; 2025 - Meu Site. Todos os direitos reservados.</p>
-                <a href='https://www.linkedin.com/in/taiuê-mafra-a4a586185/' target='_blank'><LinkedInIcon /></a>
+                <a href='https://www.linkedin.com/in/taiuê-mafra-a4a586185/' target='_blank' rel='noreferrer'><LinkedInIcon /></a>
                 </section>
             </div>
         </Fragment>

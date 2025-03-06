@@ -1,4 +1,5 @@
 import Rodape from "./Componentes/Rodape/Rodape";
+import Televisao from "./Componentes/Televisao";
 import "./index.css";
 
 function App() {
@@ -6,8 +7,7 @@ function App() {
     <>
       <div className="App">
         <main className="content">
-          <h1>Bem Vindo</h1>
-          <p>Conteudo principal</p>
+        <Televisao/>
         </main>
         <Rodape />
       </div>
